@@ -1,5 +1,5 @@
 public class Play {
     public static void main() {
-        System.out.print("Hello!");
+        System.out.print("Hello, World!");
     }
 }
